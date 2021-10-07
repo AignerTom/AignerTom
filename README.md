@@ -1,3 +1,5 @@
+[![DevCard](https://github.com/AignerTom/AignerTom/actions/workflows/main.yml/badge.svg)](https://github.com/AignerTom/AignerTom/actions/workflows/main.yml)
+
 ### Hello there 👋
 
 <!--
